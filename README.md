@@ -1,5 +1,7 @@
 MSA 2020 AI Bootcamp: Machine Learning Project
+
 Dataset: Boston Housing Dataset
+
 Task: Predict house prices based on a variety of factors
 
 Dependencies:
@@ -16,6 +18,7 @@ How to Run:
 - For just looking at the results, view the notebook as it is on Jupyter; the results are shown in it.
 
 Dataset Description:
+14 variables - 13 independent and 1 dependent
 CRIM - per capita crime rate by town
 ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
 INDUS - proportion of non-retail business acres per town.
