@@ -16,6 +16,9 @@ Dependencies:
 How to Run:
 - model.ipynb will be run as a Jupyter Notebook.
 - For just looking at the results, view the notebook as it is on Jupyter; the results are shown in it.
+- Model training and testing can just be acheived by running the jupyter notebook. 
+- Ensure dataset is in same folder as model.ipynb and if not, ensure correct path is given in pd.read_csv() command in the notebook.
+- Code is well commented to understand and run each and every step.
 
 Dataset Description:
 14 variables - 13 independent and 1 dependent
